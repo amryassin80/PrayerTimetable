@@ -20,7 +20,7 @@ myfolder="/home/pi/Documents"
 myfile="$myfolder/prepcron"
 
 # Location of prayers timetable file
-dbloc="$myfolder/prayers2020.db"
+dbloc="$myfolder/prayers2022.db"
 
 # Script location to be added in the commands
 scriptloc="$myfolder/friday.sh"
